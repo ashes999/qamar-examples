@@ -1,0 +1,10 @@
+{
+  "entities": [
+    {  
+      "name": "moon",
+      "x": 50,
+      "y": 50,
+      "sprite": "assets/images/qamar"
+    }
+  ]
+}
